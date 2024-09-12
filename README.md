@@ -28,6 +28,8 @@ Se preferir baixar os arquivos como um pacote ZIP:
 2. Selecione Download ZIP.
 3. Após o download, descompacte o arquivo no seu computador.
 
+## **Para baixar as bases acessar este link aqui : [Business_Case_ALLOS](https://ufprbr0-my.sharepoint.com/:f:/g/personal/julio_droszczak_ufpr_br/EgiK1oZQRexPnboV_kqp2EsBPPhjdC-par9Lcczy6JN7gw?e=a0cjeO)**
+
 ## **Dúvidas**
 Em caso de dúvidas ou necessidade de suporte, entre em contato com:
 
